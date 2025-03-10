@@ -1,0 +1,2 @@
+# GhostLock
+Ransomware Simulator Tool
