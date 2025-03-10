@@ -97,13 +97,10 @@ GhostLock demonstrates several techniques used by actual ransomware:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## ⚖️ License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Credits
 
-- Created by hackedby_korey
+- Created by koreyhacks_
 - Mario-style ghost animations inspired by Super Mario Bros.
 
 ## 🔗 Contact
