@@ -87,6 +87,7 @@ GhostLock demonstrates several techniques used by actual ransomware:
       ░  ░  ░  ░    ░ ░        ░               ░  ░    ░ ░  ░ ░      ░  ░   
                                                           ░                  
 ```
+![2025-03-10 23_10_42-KALI  Running  - Oracle VirtualBox _ 1](https://github.com/user-attachments/assets/1f62759b-eb09-446f-b4f6-8e026fdbe7e8)
 
 ## 🔍 How It Works
 
